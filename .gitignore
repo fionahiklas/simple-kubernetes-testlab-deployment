@@ -1,0 +1,11 @@
+# Backup files
+*~
+\#*
+*\#
+*.bak
+.\#*
+
+# Python
+.matrix
+
+
